@@ -41,7 +41,6 @@ $(document).ready(function () {
   var typed = new Typed(".typing", {
     strings: [
       "Data Analyst",
-      "Tableau Developer",
       "Power BI Developer"
     ],
     typeSpeed: 100,
@@ -52,7 +51,6 @@ $(document).ready(function () {
   var typed = new Typed(".typing-2", {
     strings: [
       "Data Analyst",
-      "Tableau Developer",
       "Power BI Developer"
     ],
     typeSpeed: 100,
